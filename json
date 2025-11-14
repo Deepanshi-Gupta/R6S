@@ -1,0 +1,51 @@
+"metrics": {
+    "match_info": {
+        "round_number": 1,
+        "match_result": "WIN / LOSS (OCR on Round Status)",
+        "operator_side": "Defender/Attacker "},
+    "kills": 0, 
+    "deaths": 0,     
+    "headshots": 0,
+    "plant defuse" : 0,
+    "deploy gadget": 0,
+    "Revive":0,
+    "Armor_pack": 0,
+    "Drop_plant":0,
+    "Pick_up_action" : 0,
+    "sabotage" : 0,
+    "bombs_found_count":0,
+    "count_camera_destroy":0,
+    "count_dron_destroy":0,
+    "Round_Win_points":0,
+    "Match_Win_points":0,
+    "assist": 0,
+    "End_of_Match_Score":0,
+    "Identified_Enemies":0,
+    "gadget_destroyed_count":0,
+    "hit_percentage": null, // Calculation: (Total Hits / Total Shots Fired)
+    "headshot_percentage": null, // Calculation: (Headshots / Total Kills)
+        
+
+    "quick_reflexes": null {  
+        "reaction_time_to_enemy_sight_ms": null,
+        "reaction_time_to_sound_cue_ms": null // Logic: (Complex) Frame of 'Red Marker' (Sound Cue) to Player Action 
+        },
+
+    "clutch_performance": { // Requires enemy spotting logic (later)
+        "clutch_rounds_won": 0, // Logic: Player is 1vX and wins round
+        "clutch_opportunities": 0 // Logic: Player is 1vX
+        },
+    
+    "utility_usage": {
+        "primary_gadget_uses": 0, 
+        "secondary_gadget_uses": 0,  
+        "gadget_effectiveness_score": null, // Logic: Gadget Use correlated with Kill Feed, Breach Status, or Enemy Utility Destruction
+        "spotting_enemies": {
+            "drones_used": 0, 
+            "camera_view_count" : 0 ,
+            "pings_made": 0, // YOLO/Pixel Detection on Yellow Ping marker
+            "enemy_detection_delay_ms": null, // Logic: Time from Enemy being visible to being pinged/shot (Awareness)
+        },
+    }
+    
+}

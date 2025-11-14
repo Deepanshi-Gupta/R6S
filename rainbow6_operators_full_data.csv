@@ -1,0 +1,79 @@
+Name,Side,Squad,Specialty,Health,Speed,Difficulty,Primary Weapon,Secondary Weapon,Gadget,Unique Ability
+,,,,,,,,,,
+,,,,,,,,,,
+Denari,Defender,Nighthaven,"SPECIALTYANTI-ENTRY,CROWD CONTROL",1,3,3,"Scorpion EVO 3 A1, SUBMACHINE GUN, FMG-9, SUBMACHINE GUN","Glaive-12, P226 Mk 25, HANDGUN","Observation Blocker, Deployable Shield",T.R.I.P. Connector
+Fenrir,Defender,Redhammer,"SPECIALTYTRAPPER,CROWD CONTROL",2,2,3,"MP7, SUBMACHINE GUN, SASG-12, SHOTGUN","5.7 USG, HANDGUN","Bulletproof camera, Observation Blocker",F-Natt Dread Mine
+Solis,Defender,Ghosteyes,"SPECIALTYSUPPORT,Intel",2,2,3,"ITA12L, SHOTGUN, P90, SUBMACHINE GUN","SMG-11, Machine Pistol","Bulletproof camera, PROXIMITY ALARM",Spec-IO Electro-Sensor
+Azami,Defender,Viperstrike,"SPECIALTYANTI-ENTRY,SUPPORT",2,2,3,"9X19SVN, ACS12, SHOTGUN","D-50, HANDGUN","Impact Grenade, Barbed Wire",KIBA BARRIER
+Thorn,Defender,Redhammer,"SPECIALTYANTI-ENTRY,TRAPPER",2,2,1,"UZK50Gi, M870, SHOTGUN","1911 TACOPS, HANDGUN, C75 Auto, Machine Pistol","Deployable Shield, Barbed Wire",RAZORBLOOM SHELL
+Thunderbird,Defender,Wolfguard,SPECIALTYSUPPORT,2,2,1,"SPAS-15, SHOTGUN, Spear .308, ASSAULT RIFLE","Bearing 9, Machine Pistol, Q-929, HANDGUN, ITA12S, SHOTGUN","Barbed Wire, Bulletproof camera, Deployable Shield",KÓNA STATION
+Aruni,Defender,Nighthaven,"SPECIALTYANTI-ENTRY,ANTI-GADGET",3,1,2,"P10 RONI, SUBMACHINE GUN, Mk 14 EBR, Marksman Rifle","PRB92, HANDGUN","Bulletproof camera, Barbed Wire",Surya Gate
+Melusi,Defender,Wolfguard,"SPECIALTYIntel,CROWD CONTROL",3,1,1,"MP5, SUBMACHINE GUN, Super 90, SHOTGUN","ITA12S, SHOTGUN, RG15, HANDGUN","Bulletproof camera, Impact Grenade",BANSHEE SONIC DEFENSE
+Oryx,Defender,Redhammer,SPECIALTYSUPPORT,2,2,2,"SPAS-12, SHOTGUN, T-5 SMG, SUBMACHINE GUN","Bailiff 410, HANDGUN, Reaper MK2, USP40, HANDGUN","Barbed Wire, PROXIMITY ALARM",REMAH DASH
+Wamai,Defender,Nighthaven,"SPECIALTYANTI-GADGET,TRAPPER",2,2,2,"AUG A2, ASSAULT RIFLE, MP5K, SUBMACHINE GUN","Super Shorty, SHOTGUN, P12, HANDGUN, Keratos .357, HANDGUN","PROXIMITY ALARM, Impact Grenade",Mag-net System
+Goyo,Defender,Redhammer,"SPECIALTYANTI-ENTRY,TRAPPER",2,2,2,"Vector .45 ACP, SUBMACHINE GUN, TCSG12, SHOTGUN","P229, HANDGUN","PROXIMITY ALARM, Bulletproof camera, Impact Grenade",Volcán Canister
+Warden,Defender,Ghosteyes,"SPECIALTYANTI-GADGET,Intel",3,1,2,"M590A1, SHOTGUN, MPX, SUBMACHINE GUN","P-10C, HANDGUN, SMG-12, Machine Pistol","Deployable Shield, Nitro Cell, Observation Blocker",Glance Smart Glasses
+Mozzie,Defender,Ghosteyes,"SPECIALTYANTI-GADGET,Intel",2,2,2,"Commando 9, ASSAULT RIFLE, P10 RONI, SUBMACHINE GUN","SDP 9mm, HANDGUN","Barbed Wire, Nitro Cell, Impact Grenade",Pest Launcher
+Kaid,Defender,Redhammer,"SPECIALTYANTI-ENTRY,ANTI-GADGET",3,1,2,"AUG A3, SUBMACHINE GUN, TCSG12, SHOTGUN",".44 MAG SEMI-AUTO, HANDGUN, LFP586, HANDGUN","Barbed Wire, Nitro Cell, Observation Blocker","""Rtila"" Electroclaw"
+Clash,Defender,Wolfguard,"SPECIALTYIntel,CROWD CONTROL",3,1,3,CCE SHIELD MK2,"P-10C, HANDGUN, SPSMG9, Machine Pistol, Super Shorty, SHOTGUN","Barbed Wire, Impact Grenade",CCE SHIELD MK2
+Maestro,Defender,Viperstrike,"SPECIALTYANTI-GADGET,Intel",3,1,2,"ALDA 5.56, Light Machine Gun, ACS12, SHOTGUN","Keratos .357, HANDGUN, Bailiff 410, HANDGUN","Barbed Wire, Impact Grenade, Observation Blocker",Evil Eye
+Alibi,Defender,Viperstrike,"SPECIALTYIntel,TRAPPER",1,3,3,"Mx4 Storm, SUBMACHINE GUN, ACS12, SHOTGUN","Keratos .357, HANDGUN, Bailiff 410, HANDGUN","PROXIMITY ALARM, Observation Blocker",Prisma
+Vigil,Defender,Ghosteyes,"SPECIALTYANTI-GADGET,CROWD CONTROL",1,3,3,"K1A, SUBMACHINE GUN, BOSG.12.2, SHOTGUN","C75 Auto, Machine Pistol, SMG-12, Machine Pistol","Bulletproof camera, Impact Grenade",ERC-7
+Ela,Defender,Nighthaven,"SPECIALTYCROWD CONTROL,TRAPPER",2,2,1,"Scorpion EVO 3 A1, SUBMACHINE GUN, FO-12, SHOTGUN","RG15, HANDGUN","Barbed Wire, Deployable Shield, Impact Grenade",Grzmot Mine
+Lesion,Defender,Ghosteyes,"SPECIALTYANTI-ENTRY,TRAPPER",2,2,1,"SIX12 SD, SHOTGUN, T-5 SMG, SUBMACHINE GUN","Q-929, HANDGUN, Super Shorty, SHOTGUN","Observation Blocker, Bulletproof camera",GU
+Mira,Defender,Viperstrike,"SPECIALTYIntel,SUPPORT",3,1,3,"Vector .45 ACP, SUBMACHINE GUN, ITA12L, SHOTGUN","USP40, HANDGUN, ITA12S, SHOTGUN","PROXIMITY ALARM, Nitro Cell",Black mirror
+Echo,Defender,Viperstrike,"SPECIALTYIntel,CROWD CONTROL",3,2,3,"MP5SD, SUBMACHINE GUN, SuperNova, SHOTGUN","Bearing 9, Machine Pistol, P229, HANDGUN","Impact Grenade, Deployable Shield",Yokai
+Caveira,Defender,Ghosteyes,"SPECIALTYIntel,CROWD CONTROL",1,3,3,"M12, SUBMACHINE GUN, SPAS-15, SHOTGUN",Luison,"PROXIMITY ALARM, Impact Grenade, Observation Blocker",Silent Step
+Valkyrie,Defender,Ghosteyes,"SPECIALTYIntel,SUPPORT",2,2,2,"MPX, SUBMACHINE GUN, SPAS-12, SHOTGUN","D-50, HANDGUN","Impact Grenade, Nitro Cell",Black Eye
+Frost,Defender,Wolfguard,"SPECIALTYANTI-ENTRY,TRAPPER",2,2,1,"Super 90, SHOTGUN, 9mm C1, SUBMACHINE GUN","Mk1 9mm, HANDGUN, ITA12S, SHOTGUN","Bulletproof camera, Deployable Shield",Welcome Mat
+Mute,Defender,Viperstrike,"SPECIALTYANTI-GADGET,CROWD CONTROL,",3,1,1,"MP5K, SUBMACHINE GUN, M590A1, SHOTGUN","P226 Mk 25, HANDGUN, SMG-11, Machine Pistol","Bulletproof camera, Nitro Cell",Signal Disruptor
+Smoke,Defender,Nighthaven,"SPECIALTYANTI-ENTRY,TRAPPER,",2,2,2,"M590A1, SHOTGUN, FMG-9, SUBMACHINE GUN","P226 Mk 25, HANDGUN, SMG-11, Machine Pistol","Barbed Wire, PROXIMITY ALARM",Remote Gas Grenade
+Castle,Defender,Wolfguard,"SPECIALTYANTI-ENTRY,SUPPORT",2,2,2,"UMP45, SUBMACHINE GUN, M1014, SHOTGUN","5.7 USG, HANDGUN, Super Shorty, SHOTGUN, M45 MEUSOC, HANDGUN","PROXIMITY ALARM, Bulletproof camera",Armor Panel
+Pulse,Defender,Nighthaven,"SPECIALTYIntel,SUPPORT",1,3,3,"UMP45, SUBMACHINE GUN, M1014, SHOTGUN","5.7 USG, HANDGUN, M45 MEUSOC, HANDGUN, Reaper MK2","Nitro Cell, Deployable Shield, Observation Blocker",Cardiac Sensor
+Doc,Defender,Wolfguard,SPECIALTYSUPPORT,3,1,1,"MP5, SUBMACHINE GUN, P90, SUBMACHINE GUN, SG-CQB, SHOTGUN","P9, HANDGUN, LFP586, HANDGUN, Bailiff 410, HANDGUN","Bulletproof camera, Barbed Wire",Stim Pistol
+Rook,Defender,Viperstrike,SPECIALTYSUPPORT,3,1,1,"MP5, SUBMACHINE GUN, P90, SUBMACHINE GUN, SG-CQB, SHOTGUN","Reaper MK2, P9, HANDGUN, LFP586, HANDGUN","PROXIMITY ALARM, Impact Grenade, Observation Blocker",Armor Pack
+Bandit,Defender,Wolfguard,"SPECIALTYANTI-ENTRY,ANTI-GADGET,",1,3,1,"MP7, SUBMACHINE GUN, M870, SHOTGUN","P12, HANDGUN","Barbed Wire, Nitro Cell",Shock Wire
+Tachanka,Defender,Redhammer,"SPECIALTYANTI-ENTRY,CROWD CONTROL",3,1,1,"DP27, Light Machine Gun, 9x19VSN, SUBMACHINE GUN","PMM, HANDGUN, GSh-18, HANDGUN, Bearing 9, Machine Pistol","Barbed Wire, PROXIMITY ALARM, Deployable Shield",SHUMIKHA LAUNCHER
+Kapkan,Defender,Redhammer,"SPECIALTYANTI-ENTRY,TRAPPER,",2,2,1,"9x19VSN, SUBMACHINE GUN, SASG-12, SHOTGUN","PMM, HANDGUN, GSh-18, HANDGUN","Barbed Wire, Bulletproof camera",Entry Denial Device
+Skopós,Defender,Wolfguard,"SPECIALTYIntel,SUPPORT",2,2,2,"PCX-33, ASSAULT RIFLE","P229, HANDGUN","Impact Grenade, PROXIMITY ALARM",V10 Pantheon Shells
+Jäger,Defender,Viperstrike,"SPECIALTYANTI-GADGET,SUPPORT",2,2,2,"M870, SHOTGUN, 416-C Carbine, ASSAULT RIFLE","P12, HANDGUN","Bulletproof camera, Observation Blocker",ACTIVE DEFENSE
+Tubarão,Defender,Wolfguard,"SPECIALTYANTI-ENTRY,ANTI-GADGET",2,2,2,"MPX, SUBMACHINE GUN, AR-15.50, ASSAULT RIFLE","P226 Mk 25, HANDGUN","Nitro Cell, PROXIMITY ALARM",Zoto Canister
+Sentry,Defender,N/A,"SPECIALTYSUPPORT,",2,2,1,"Commando 9, ASSAULT RIFLE, M870, SHOTGUN, TCSG12, SHOTGUN","C75 Auto, Machine Pistol, Super Shorty, SHOTGUN","Barbed Wire, Bulletproof camera, Deployable Shield, Observation Blocker, Impact Grenade, Nitro Cell, PROXIMITY ALARM",N/A
+Rauora,Attacker,Viperstrike,"SPECIALTYSUPPORT,MAP CONTROL",2,2,2,"417, Marksman Rifle, M249, Light Machine Gun","Reaper MK2, GSh-18, HANDGUN","Smoke Grenade, Breach Charge",D.O.M. Panel Launcher
+Ram,Attacker,Redhammer,"SPECIALTYANTI-GADGET,BREACH",3,1,2,"LMG-E, Light Machine Gun, R4-C, ASSAULT RIFLE","Mk1 9mm, HANDGUN","Smoke Grenade, Stun Grenade",BU-GI AUTO BREACHER
+Brava,Attacker,Viperstrike,"SPECIALTYIntel,ANTI-GADGET",1,3,3,"PARA-308, ASSAULT RIFLE, CAMRS, Marksman Rifle","USP40, HANDGUN, Super Shorty, SHOTGUN","Smoke Grenade, Claymore",Kludge Drone
+Grim,Attacker,Nighthaven,"SPECIALTYMAP CONTROL,Front Line",1,3,1,"552 Commando, ASSAULT RIFLE, SG-CQB, SHOTGUN","Bailiff 410, HANDGUN, P229, HANDGUN","Claymore, HARD BREACH CHARGE, Impact EMP Grenade",Kawan Hive Launcher
+Sens,Attacker,Wolfguard,"SPECIALTYSUPPORT,MAP CONTROL",1,3,2,"417, Marksman Rifle, POF9, ASSAULT RIFLE","SDP 9mm, HANDGUN","Claymore, Frag Grenade, HARD BREACH CHARGE",R.O.U. Projector System
+Osa,Attacker,Nighthaven,"SPECIALTYSUPPORT,Intel",3,1,2,"556xi, ASSAULT RIFLE, PDW9, SUBMACHINE GUN","PMM, HANDGUN","Claymore, Frag Grenade, Impact EMP Grenade",TALON-8 CLEAR SHIELD
+Flores,Attacker,Ghosteyes,"SPECIALTYANTI-GADGET,Intel",2,2,2,"AR33, ASSAULT RIFLE, SR-25, Marksman Rifle","GSh-18, HANDGUN","Stun Grenade, Claymore",RCE-RATERO CHARGE
+Zero,Attacker,Ghosteyes,"SPECIALTYANTI-GADGET,Intel",1,3,1,"MP7, SUBMACHINE GUN, SC3000K, ASSAULT RIFLE","5.7 USG, HANDGUN, Gonne-6, Hand Cannon","HARD BREACH CHARGE, Claymore",ARGUS LAUNCHER
+Ace,Attacker,Nighthaven,"SPECIALTYBREACH,ANTI-GADGET",2,2,1,"AK-12, ASSAULT RIFLE, M1014, SHOTGUN","P9, HANDGUN","Breach Charge, Claymore",S.E.L.M.A. AQUA BREACHER
+Iana,Attacker,Ghosteyes,"SPECIALTYFront Line,Intel",2,2,1,"ARX200, ASSAULT RIFLE, G36C, ASSAULT RIFLE","Gonne-6, Hand Cannon, Mk1 9mm, HANDGUN","Impact EMP Grenade, Smoke Grenade",GEMINI REPLICATOR
+Kali,Attacker,Nighthaven,"SPECIALTYANTI-GADGET,SUPPORT",2,2,2,"CSRX 300, Marksman Rifle","SPSMG9, Machine Pistol, C75 Auto, Machine Pistol, P226 Mk 25, HANDGUN","Breach Charge, Claymore, Smoke Grenade",LV Explosive Lance
+Amaru,Attacker,Redhammer,"SPECIALTYFront Line,MAP CONTROL",2,2,2,"G8A1, Light Machine Gun, SuperNova, SHOTGUN","Gonne-6, Hand Cannon, SMG-11, Machine Pistol, ITA12S, SHOTGUN","Stun Grenade, HARD BREACH CHARGE",Garra Hook
+Gridlock,Attacker,Redhammer,"SPECIALTYSUPPORT,MAP CONTROL",3,1,1,"F90, ASSAULT RIFLE, M249 SAW, Light Machine Gun","Super Shorty, SHOTGUN, SDP 9mm, HANDGUN","Smoke Grenade, Frag Grenade, Impact EMP Grenade",Trax Stingers
+Nomad,Attacker,Wolfguard,"SPECIALTYFront Line,MAP CONTROL",2,2,3,"AK-74M, ASSAULT RIFLE, ARX200, ASSAULT RIFLE","PRB92, HANDGUN, .44 MAG SEMI-AUTO, HANDGUN","Breach Charge, Stun Grenade",Airjab Launcher
+Maverick,Attacker,Ghosteyes,"SPECIALTYBREACH,Front Line",1,3,2,"AR-15.50, ASSAULT RIFLE, M4, ASSAULT RIFLE","1911 TACOPS, HANDGUN","Claymore, Smoke Grenade, Stun Grenade",Breaching Torch
+Lion,Attacker,Wolfguard,"SPECIALTYIntel,MAP CONTROL",2,2,1,"417, Marksman Rifle, SG-CQB, SHOTGUN, V308, ASSAULT RIFLE","LFP586, HANDGUN, P9, HANDGUN","Claymore, Frag Grenade, Stun Grenade",EE-ONE-D
+Finka,Attacker,Nighthaven,"SPECIALTYFront Line,SUPPORT",2,2,1,"6P41, Light Machine Gun, SASG-12, SHOTGUN, Spear .308, ASSAULT RIFLE","GSh-18, HANDGUN, PMM, HANDGUN","Frag Grenade, Smoke Grenade, Stun Grenade",Adrenal Surge
+Dokkaebi,Attacker,Viperstrike,"SPECIALTYIntel,MAP CONTROL",1,3,2,"Mk 14 EBR, Marksman Rifle, BOSG.12.2, SHOTGUN","Gonne-6, Hand Cannon, SMG-12, Machine Pistol, C75 Auto, Machine Pistol","Smoke Grenade, Stun Grenade, Impact EMP Grenade",Logic Bomb
+Zofia,Attacker,Ghosteyes,"SPECIALTYBREACH,ANTI-GADGET",3,1,1,"LMG-E, Light Machine Gun, M762, ASSAULT RIFLE","RG15, HANDGUN","Claymore, HARD BREACH CHARGE",KS79 Lifeline
+Ying,Attacker,Wolfguard,"SPECIALTYFront Line,MAP CONTROL",2,2,2,"T-95 LSW, Light Machine Gun, SIX12, SHOTGUN","Q-929, HANDGUN, Reaper MK2","HARD BREACH CHARGE, Smoke Grenade",Candela
+Jackal,Attacker,Viperstrike,"SPECIALTYIntel,MAP CONTROL",2,2,3,"C7E, ASSAULT RIFLE, PDW9, SUBMACHINE GUN, ITA12L, SHOTGUN","USP40, HANDGUN, ITA12S, SHOTGUN","Claymore, Smoke Grenade",Eyenox Model III
+Hibana,Attacker,Viperstrike,"SPECIALTYBREACH,Front Line",1,3,1,"Type-89, ASSAULT RIFLE, SuperNova, SHOTGUN","P229, HANDGUN, Bearing 9, Machine Pistol","Stun Grenade, Breach Charge",X-Kairos
+Blackbeard,Attacker,Redhammer,"SPECIALTYBREACH,Front Line",3,1,2,"Mk17 CQB, ASSAULT RIFLE, SR-25, Marksman Rifle",N/A,"Claymore, Frag Grenade",H.U.L.L. ADAPTABLE SHIELD
+Buck,Attacker,Redhammer,"SPECIALTYBREACH,SUPPORT",2,2,1,"C8-SFW, ASSAULT RIFLE, CAMRS, Marksman Rifle","Mk1 9mm, HANDGUN","Stun Grenade, Claymore",Skeleton Key
+Sledge,Attacker,Redhammer,"SPECIALTYBREACH,ANTI-GADGET,",2,2,1,"L85A2, ASSAULT RIFLE, M590A1, SHOTGUN","P226 Mk 25, HANDGUN, Reaper MK2","Frag Grenade, Stun Grenade, Impact EMP Grenade",BREACHING HAMMER
+Thatcher,Attacker,Viperstrike,"SPECIALTYANTI-GADGET,SUPPORT,",3,1,1,"AR33, ASSAULT RIFLE, L85A2, ASSAULT RIFLE, M590A1, SHOTGUN","P226 Mk 25, HANDGUN","Breach Charge, Claymore",EMP Grenade
+Ash,Attacker,Redhammer,"SPECIALTYBREACH,Front Line",1,3,2,"G36C, ASSAULT RIFLE, R4-C, ASSAULT RIFLE","5.7 USG, HANDGUN, M45 MEUSOC, HANDGUN","Breach Charge, Claymore",BREACHING ROUND
+Thermite,Attacker,Redhammer,"SPECIALTYBREACH,SUPPORT,",2,2,1,"M1014, SHOTGUN, 556xi, ASSAULT RIFLE","5.7 USG, HANDGUN, M45 MEUSOC, HANDGUN","Smoke Grenade, Stun Grenade",Exothermic Charge
+Montagne,Attacker,Wolfguard,"SPECIALTYIntel,SUPPORT",3,1,3,LE ROC SHIELD,"P9, HANDGUN, LFP586, HANDGUN","HARD BREACH CHARGE, Smoke Grenade, Impact EMP Grenade",LE ROC SHIELD
+Twitch,Attacker,Wolfguard,"SPECIALTYANTI-GADGET,Intel",2,2,2,"F2, ASSAULT RIFLE, 417, Marksman Rifle, SG-CQB, SHOTGUN","P9, HANDGUN, LFP586, HANDGUN","Smoke Grenade, Claymore",SHOCK DRONE
+Blitz,Attacker,Viperstrike,"SPECIALTYFront Line,MAP CONTROL",2,2,3,G52-Tactical Shield,"P12, HANDGUN","Smoke Grenade, Breach Charge",G52-TACTICAL SHIELD
+IQ,Attacker,Nighthaven,"SPECIALTYIntel,SUPPORT",1,3,3,"AUG A2, ASSAULT RIFLE, 552 Commando, ASSAULT RIFLE, G8A1, Light Machine Gun","P12, HANDGUN","Breach Charge, Frag Grenade, Claymore",Electronics Detector
+Fuze,Attacker,Redhammer,SPECIALTYANTI-GADGET,3,1,1,"AK-12, ASSAULT RIFLE, 6P41, Light Machine Gun, Ballistic Shield","PMM, HANDGUN, GSh-18, HANDGUN","Breach Charge, HARD BREACH CHARGE, Smoke Grenade",Cluster Charge
+Glaz,Attacker,Ghosteyes,"SPECIALTYIntel,SUPPORT,",1,3,2,"OTs-03, Marksman Rifle","PMM, HANDGUN, Gonne-6, Hand Cannon, Bearing 9, Machine Pistol","Smoke Grenade, Frag Grenade, Claymore",Flip Sight
+CAPITÃO,Attacker,Viperstrike,"SPECIALTYFront Line,MAP CONTROL",1,3,2,"M249, Light Machine Gun, PARA-308, ASSAULT RIFLE","Gonne-6, Hand Cannon, PRB92, HANDGUN","Claymore, HARD BREACH CHARGE, Impact EMP Grenade",Tactical Crossbow
+NØKK,Attacker,Ghosteyes,"SPECIALTYFront Line,MAP CONTROL",2,2,3,"FMG-9, SUBMACHINE GUN, SIX12 SD, SHOTGUN","5.7 USG, HANDGUN, D-50, HANDGUN","HARD BREACH CHARGE, Frag Grenade, Impact EMP Grenade",HEL Presence Reduction
+Deimos,Attacker,N/A,"SPECIALTYIntel,MAP CONTROL",2,2,2,"AK-74M, ASSAULT RIFLE, M590A1, SHOTGUN",".44 VENDETTA, HANDGUN","Frag Grenade, HARD BREACH CHARGE",DEATHMARK TRACKER
+Striker,Attacker,N/A,"SPECIALTYSUPPORT,",2,2,1,"M4, ASSAULT RIFLE, M249, Light Machine Gun, SR-25, Marksman Rifle","5.7 USG, HANDGUN, ITA12S, SHOTGUN","Breach Charge, Claymore, Frag Grenade, HARD BREACH CHARGE, Smoke Grenade, Stun Grenade, Impact EMP Grenade",N/A
